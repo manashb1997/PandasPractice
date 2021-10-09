@@ -1,4 +1,4 @@
-num = eval(input('Enter the number to find the factorial of:  '))
+num = eval(input('Which number do you want to find the factorial of?  '))
 
 temp1 = num
 temp2 = num-1
