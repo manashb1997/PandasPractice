@@ -1,6 +1,6 @@
 import math as m
 
-print('Program to evaluate the roots of an equation of form ax^2+bx+c=0')
+print('Program to evaluate the roots of an equation of the form ax^2+bx+c=0')
 
 
 a = float(input('Enter value of a: '))
