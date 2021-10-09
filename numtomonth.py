@@ -1,7 +1,7 @@
 months = "JanFebMarAprMayJunJulAugSepOctNovDec"
 
 print("Enter the month in numbers")
-n = eval(input("Which month? "))
+n = eval(input("Enter the Month Number? "))
 
 value = (n-1)*3
 
